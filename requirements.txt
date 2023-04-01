@@ -1,0 +1,5 @@
+pygame
+chefboost
+tensorflow
+sklearn
+pillow
